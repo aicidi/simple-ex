@@ -1,5 +1,5 @@
 [package]
-name = "test2"
+name = "rust-scap"
 version = "0.1.0"
 authors = []
 edition = "2018"
